@@ -1,1 +1,1 @@
-Mod: Time starts at <start> and ends at <end> at <framerate> fps to get a final time of <result>. Retimed using https://github.com/Slush0Puppy/retime
+Mod: Time starts at <start> and ends at <end> at <framerate> fps to get a final time of <result>. [Retimed using Slush Puppys Retime Tool] (https://github.com/Slush0Puppy/retime)
